@@ -3,8 +3,8 @@
 [![README file in English][readme-badge-en]][readme-lang-en]
 [![README file in Brazilian Portuguese][readme-badge-pt-br]][readme-lang-pt-br]
 
-Translation of Doctrine PHP Content Repository Object Document Mapper
-Documentation into Brazilian Portuguese.
+Translation of Doctrine PHP Content Repository ODM Documentation into Brazilian
+Portuguese.
 
 ## Support
 
